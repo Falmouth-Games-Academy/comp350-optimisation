@@ -1,0 +1,7 @@
+use list instead of vector for inventory
+write a texture manager
+game code complete book 4th editiion
+
+bit flags or enums instead of boools
+inline get and set functions
+move code that calls other functions frequently close to each other in the same cpp file
