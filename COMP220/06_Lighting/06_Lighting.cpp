@@ -65,7 +65,7 @@ int main(int argc, char* args[])
 
 	//set up terrain
 	Terrain terrain(4, mesh);
-	terrain.generateTerrain(300, 300, 10, 15);
+	terrain.generateTerrain(300, 300, 10, 35);
 	//create buffers no more adding objects after this point
 	mesh.createBuffers();
 

@@ -1,0 +1,10 @@
+﻿  06_Lighting.cpp
+d:\comp350-optimisation\comp220\06_lighting\PlayerMovement.h(19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+d:\comp350-optimisation\comp220\06_lighting\PlayerMovement.h(20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating code
+  25 of 506 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  06_Lighting.vcxproj -> D:\comp350-optimisation\COMP220\x64\Release\06_Lighting.exe
+  06_Lighting.vcxproj -> D:\comp350-optimisation\COMP220\x64\Release\06_Lighting.pdb (Full PDB)
