@@ -13,5 +13,5 @@ void main()
 {
 	vec3 lightDirectionNorm = normalize(lightDirection);
 	float diffuseIntensity = dot(normal, lightDirectionNorm);
-	fragmentColour = vec4(((diffuseIntensity+0.5)/1.2) * colour, 1.0) * vec4(colour, 1.0);
+	fragmentColour = vec4(((diffuseIntensity+1.0)/2) * colour, 1.2) * vec4(colour, 1.0);
 }
